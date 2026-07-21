@@ -13,6 +13,7 @@ Problems are solved from:
 - 🟢 LeetCode
 - 🟠 HackerRank
 - 🔵 Codeforces
+- 🔴 GeeksforGeeks
 
 ---
 
@@ -101,6 +102,7 @@ Current platforms:
 | LeetCode | ✅ Active |
 | HackerRank | ✅ Active |
 | Codeforces | ✅ Active |
+| GeeksforGeeks | ✅ Active |
 
 ---
 
